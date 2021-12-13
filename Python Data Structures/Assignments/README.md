@@ -1,5 +1,5 @@
 ### :file_folder: Description : 
-This is my solution to all the programming assignments of the Python for Everybody 1st course: Python Data Structures. After completing this course you will get a broad idea of Python data structures like:
+This is my solution to all the programming assignments of the Python for Everybody 2nd course: Python Data Structures. After completing this course you will get a broad idea of Python data structures like:
 
 * Dictionaries
 * Lists
